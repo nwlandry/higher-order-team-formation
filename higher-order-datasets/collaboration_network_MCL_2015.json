@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "conference-name": "MCL",
+    "year": 2015
+  },
+  "network-type": "undirected",
+  "edges": [
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 1
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 2
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 3
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 4
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 5
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 6
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 7
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 8
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 9
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 10
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 11
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 12
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 13
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 14
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 15
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 16
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 17
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 18
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 19
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 20
+    }
+  ],
+  "incidences": [
+    {
+      "edge": 5,
+      "node": 38534
+    },
+    {
+      "edge": 5,
+      "node": 27390
+    },
+    {
+      "edge": 5,
+      "node": 37583
+    },
+    {
+      "edge": 1,
+      "node": 38520
+    },
+    {
+      "edge": 1,
+      "node": 38550
+    },
+    {
+      "edge": 3,
+      "node": 38537
+    },
+    {
+      "edge": 3,
+      "node": 32668
+    },
+    {
+      "edge": 3,
+      "node": 32140
+    },
+    {
+      "edge": 4,
+      "node": 37192
+    },
+    {
+      "edge": 4,
+      "node": 32155
+    },
+    {
+      "edge": 4,
+      "node": 38540
+    },
+    {
+      "edge": 4,
+      "node": 38542
+    },
+    {
+      "edge": 7,
+      "node": 38521
+    },
+    {
+      "edge": 7,
+      "node": 27365
+    },
+    {
+      "edge": 7,
+      "node": 38551
+    },
+    {
+      "edge": 18,
+      "node": 24307
+    },
+    {
+      "edge": 18,
+      "node": 32140
+    },
+    {
+      "edge": 18,
+      "node": 38523
+    },
+    {
+      "edge": 18,
+      "node": 27390
+    },
+    {
+      "edge": 8,
+      "node": 38547
+    },
+    {
+      "edge": 8,
+      "node": 38526
+    },
+    {
+      "edge": 13,
+      "node": 38528
+    },
+    {
+      "edge": 13,
+      "node": 27451
+    },
+    {
+      "edge": 13,
+      "node": 38543
+    },
+    {
+      "edge": 12,
+      "node": 38536
+    },
+    {
+      "edge": 12,
+      "node": 38529
+    },
+    {
+      "edge": 10,
+      "node": 38530
+    },
+    {
+      "edge": 10,
+      "node": 34647
+    },
+    {
+      "edge": 10,
+      "node": 38263
+    },
+    {
+      "edge": 17,
+      "node": 22792
+    },
+    {
+      "edge": 17,
+      "node": 38541
+    },
+    {
+      "edge": 17,
+      "node": 37583
+    },
+    {
+      "edge": 16,
+      "node": 38531
+    },
+    {
+      "edge": 16,
+      "node": 37605
+    },
+    {
+      "edge": 16,
+      "node": 38518
+    },
+    {
+      "edge": 11,
+      "node": 38536
+    },
+    {
+      "edge": 11,
+      "node": 38532
+    },
+    {
+      "edge": 19,
+      "node": 38537
+    },
+    {
+      "edge": 19,
+      "node": 38533
+    },
+    {
+      "edge": 20,
+      "node": 38370
+    },
+    {
+      "edge": 20,
+      "node": 38539
+    },
+    {
+      "edge": 15,
+      "node": 38539
+    },
+    {
+      "edge": 15,
+      "node": 32668
+    },
+    {
+      "edge": 6,
+      "node": 38520
+    },
+    {
+      "edge": 6,
+      "node": 34434
+    },
+    {
+      "edge": 2,
+      "node": 38532
+    },
+    {
+      "edge": 2,
+      "node": 38519
+    },
+    {
+      "edge": 9,
+      "node": 37192
+    },
+    {
+      "edge": 9,
+      "node": 38370
+    },
+    {
+      "edge": 9,
+      "node": 38403
+    },
+    {
+      "edge": 14,
+      "node": 38517
+    },
+    {
+      "edge": 14,
+      "node": 38533
+    }
+  ]
+}

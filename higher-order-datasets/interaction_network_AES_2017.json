@@ -1,0 +1,2971 @@
+{
+  "metadata": {
+    "conference-name": "AES",
+    "year": 2017
+  },
+  "network-type": "undirected",
+  "edges": [
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_31"
+    },
+    {
+      "attrs": {
+        "group-type": "B2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_B2_24"
+    },
+    {
+      "attrs": {
+        "group-type": "B3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T08:15:00",
+        "end_time": "2017-11-04T09:15:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B3_35"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_415"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_315"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_36"
+    },
+    {
+      "attrs": {
+        "group-type": "B2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_B2_22"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_22"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_42"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_318"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_120"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_24"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_110"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_27"
+    },
+    {
+      "attrs": {
+        "group-type": "B1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T10:30:00",
+        "end_time": "2017-11-03T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B1_14"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_19"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_23"
+    },
+    {
+      "attrs": {
+        "group-type": "B3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T08:15:00",
+        "end_time": "2017-11-04T09:15:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B3_36"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_15"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_17"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_118"
+    },
+    {
+      "attrs": {
+        "group-type": "B1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T10:30:00",
+        "end_time": "2017-11-03T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B1_16"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_34"
+    },
+    {
+      "attrs": {
+        "group-type": "B4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T10:30:00",
+        "end_time": "2017-11-04T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B4_42"
+    },
+    {
+      "attrs": {
+        "group-type": "B3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T08:15:00",
+        "end_time": "2017-11-04T09:15:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B3_31"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_311"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_317"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_39"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_26"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_49"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_214"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_16"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_319"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_113"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_28"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_21"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_37"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_417"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_314"
+    },
+    {
+      "attrs": {
+        "group-type": "B2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_B2_23"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_46"
+    },
+    {
+      "attrs": {
+        "group-type": "B3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T08:15:00",
+        "end_time": "2017-11-04T09:15:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B3_32"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_117"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_220"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_211"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_215"
+    },
+    {
+      "attrs": {
+        "group-type": "B2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_B2_21"
+    },
+    {
+      "attrs": {
+        "group-type": "B4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T10:30:00",
+        "end_time": "2017-11-04T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B4_41"
+    },
+    {
+      "attrs": {
+        "group-type": "B1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T10:30:00",
+        "end_time": "2017-11-03T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B1_15"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_312"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_413"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_213"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_38"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_114"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_420"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_218"
+    },
+    {
+      "attrs": {
+        "group-type": "B4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T10:30:00",
+        "end_time": "2017-11-04T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B4_43"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_112"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_119"
+    },
+    {
+      "attrs": {
+        "group-type": "B1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T10:30:00",
+        "end_time": "2017-11-03T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B1_13"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_18"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_410"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_115"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_216"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_41"
+    },
+    {
+      "attrs": {
+        "group-type": "B4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T10:30:00",
+        "end_time": "2017-11-04T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B4_45"
+    },
+    {
+      "attrs": {
+        "group-type": "B1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T10:30:00",
+        "end_time": "2017-11-03T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B1_11"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_414"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_11"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_35"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_219"
+    },
+    {
+      "attrs": {
+        "group-type": "B2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_B2_26"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_419"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_212"
+    },
+    {
+      "attrs": {
+        "group-type": "B3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T08:15:00",
+        "end_time": "2017-11-04T09:15:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B3_34"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_32"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_412"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_43"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_320"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_47"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_33"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_44"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_313"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_29"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_217"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_416"
+    },
+    {
+      "attrs": {
+        "group-type": "B4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T10:30:00",
+        "end_time": "2017-11-04T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B4_46"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_310"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_45"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_411"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_418"
+    },
+    {
+      "attrs": {
+        "group-type": "B4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T10:30:00",
+        "end_time": "2017-11-04T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B4_44"
+    },
+    {
+      "attrs": {
+        "group-type": "M3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T09:30:00",
+        "end_time": "2017-11-04T10:00:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M3_316"
+    },
+    {
+      "attrs": {
+        "group-type": "B3",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T08:15:00",
+        "end_time": "2017-11-04T09:15:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B3_33"
+    },
+    {
+      "attrs": {
+        "group-type": "M4",
+        "date": "2017-11-04",
+        "start_time": "2017-11-04T11:45:00",
+        "end_time": "2017-11-04T12:15:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M4_48"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_210"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_116"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_13"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_12"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_111"
+    },
+    {
+      "attrs": {
+        "group-type": "M1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_M1_14"
+    },
+    {
+      "attrs": {
+        "group-type": "B1",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T10:30:00",
+        "end_time": "2017-11-03T11:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_B1_12"
+    },
+    {
+      "attrs": {
+        "group-type": "B2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T12:00:00",
+        "end_time": "2017-11-03T12:30:00",
+        "duration": 0.5
+      },
+      "edge": "AES1_B2_25"
+    },
+    {
+      "attrs": {
+        "group-type": "M2",
+        "date": "2017-11-03",
+        "start_time": "2017-11-03T15:30:00",
+        "end_time": "2017-11-03T16:30:00",
+        "duration": 1.0
+      },
+      "edge": "AES1_M2_25"
+    }
+  ],
+  "incidences": [
+    {
+      "edge": "AES1_B1_12",
+      "node": 39713
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 39589
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 40490
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 38667
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 37645
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 40462
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 40496
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 40465
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 40473
+    },
+    {
+      "edge": "AES1_B1_12",
+      "node": 38684
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 38021
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 39017
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 39115
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 40494
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 40463
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 40528
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 40466
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 39034
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 40475
+    },
+    {
+      "edge": "AES1_B1_14",
+      "node": 38717
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 40801
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 39876
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 39109
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 39050
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 40464
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 40468
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 40469
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 40471
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 40472
+    },
+    {
+      "edge": "AES1_B1_11",
+      "node": 41373
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 40481
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 38786
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 40485
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 40489
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 34441
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 38633
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 39705
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 40474
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 38331
+    },
+    {
+      "edge": "AES1_B1_13",
+      "node": 40316
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 40480
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 40483
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 39142
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 37575
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 40457
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 39565
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 36399
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 40495
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 39026
+    },
+    {
+      "edge": "AES1_B1_16",
+      "node": 40470
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 40482
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 40486
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 39143
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 39179
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 40460
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 40461
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 40493
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 40459
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 40467
+    },
+    {
+      "edge": "AES1_B1_15",
+      "node": 40477
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 39876
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 40485
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 39142
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 37575
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 40459
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 37645
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 40496
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 40528
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 40465
+    },
+    {
+      "edge": "AES1_B2_26",
+      "node": 40472
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 40480
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 39713
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 40481
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 39143
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 40457
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 39017
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 34441
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 40460
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 39565
+    },
+    {
+      "edge": "AES1_B2_22",
+      "node": 40475
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 38786
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 40483
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 40477
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 40494
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 36399
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 40464
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 40468
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 38331
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 38717
+    },
+    {
+      "edge": "AES1_B2_21",
+      "node": 41373
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 40801
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 38021
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 40486
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 40489
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 38667
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 39115
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 40493
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 39026
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 40473
+    },
+    {
+      "edge": "AES1_B2_25",
+      "node": 40316
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 40482
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 39589
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 39109
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 39050
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 40461
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 40462
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 40466
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 39705
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 39034
+    },
+    {
+      "edge": "AES1_B2_23",
+      "node": 38684
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 38633
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 40490
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 39179
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 40495
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 40463
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 40467
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 40469
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 40470
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 40471
+    },
+    {
+      "edge": "AES1_B2_24",
+      "node": 40474
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 40481
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 39876
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 39050
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 39179
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 40460
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 40494
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 40495
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 40496
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 40465
+    },
+    {
+      "edge": "AES1_B3_35",
+      "node": 39705
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 39017
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 40490
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 38667
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 40493
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 40464
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 40528
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 40467
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 38331
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 40475
+    },
+    {
+      "edge": "AES1_B3_31",
+      "node": 38717
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 39713
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 38786
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 39109
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 40489
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 40457
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 40459
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 36399
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 40463
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 40474
+    },
+    {
+      "edge": "AES1_B3_36",
+      "node": 38684
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 40801
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 40482
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 40483
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 40461
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 39565
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 39026
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 40468
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 40469
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 40472
+    },
+    {
+      "edge": "AES1_B3_34",
+      "node": 40477
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 39589
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 40486
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 39143
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 39142
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 37575
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 40462
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 40470
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 40473
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 40316
+    },
+    {
+      "edge": "AES1_B3_32",
+      "node": 41373
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 40480
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 40485
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 38021
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 34441
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 38633
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 39115
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 37645
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 40466
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 40471
+    },
+    {
+      "edge": "AES1_B3_33",
+      "node": 39034
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 39050
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 40459
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 39565
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 40494
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 40496
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 40469
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 40470
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 40474
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 38331
+    },
+    {
+      "edge": "AES1_B4_43",
+      "node": 38684
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 39713
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 38021
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 39142
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 37575
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 40489
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 38633
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 40468
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 39705
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 40475
+    },
+    {
+      "edge": "AES1_B4_41",
+      "node": 40477
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 39876
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 40485
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 40486
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 39109
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 39017
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 34441
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 40461
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 40495
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 40316
+    },
+    {
+      "edge": "AES1_B4_44",
+      "node": 38717
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 40480
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 39179
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 40460
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 39115
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 40462
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 36399
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 40464
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 40463
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 40472
+    },
+    {
+      "edge": "AES1_B4_42",
+      "node": 40473
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 40801
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 38786
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 40483
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 39589
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 39143
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 40490
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 40466
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 39026
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 40467
+    },
+    {
+      "edge": "AES1_B4_46",
+      "node": 40471
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 40481
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 40482
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 40457
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 38667
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 37645
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 40493
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 40528
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 40465
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 39034
+    },
+    {
+      "edge": "AES1_B4_45",
+      "node": 41373
+    },
+    {
+      "edge": "AES1_M1_119",
+      "node": 40496
+    },
+    {
+      "edge": "AES1_M1_119",
+      "node": 40490
+    },
+    {
+      "edge": "AES1_M1_119",
+      "node": 40470
+    },
+    {
+      "edge": "AES1_M1_114",
+      "node": 39713
+    },
+    {
+      "edge": "AES1_M1_114",
+      "node": 40475
+    },
+    {
+      "edge": "AES1_M1_114",
+      "node": 40316
+    },
+    {
+      "edge": "AES1_M1_12",
+      "node": 40477
+    },
+    {
+      "edge": "AES1_M1_12",
+      "node": 39876
+    },
+    {
+      "edge": "AES1_M1_12",
+      "node": 39589
+    },
+    {
+      "edge": "AES1_M1_16",
+      "node": 40464
+    },
+    {
+      "edge": "AES1_M1_16",
+      "node": 38633
+    },
+    {
+      "edge": "AES1_M1_16",
+      "node": 40473
+    },
+    {
+      "edge": "AES1_M1_116",
+      "node": 40489
+    },
+    {
+      "edge": "AES1_M1_116",
+      "node": 38331
+    },
+    {
+      "edge": "AES1_M1_116",
+      "node": 40481
+    },
+    {
+      "edge": "AES1_M1_17",
+      "node": 40483
+    },
+    {
+      "edge": "AES1_M1_17",
+      "node": 40485
+    },
+    {
+      "edge": "AES1_M1_17",
+      "node": 37575
+    },
+    {
+      "edge": "AES1_M1_117",
+      "node": 40457
+    },
+    {
+      "edge": "AES1_M1_117",
+      "node": 40801
+    },
+    {
+      "edge": "AES1_M1_117",
+      "node": 37645
+    },
+    {
+      "edge": "AES1_M1_118",
+      "node": 39034
+    },
+    {
+      "edge": "AES1_M1_118",
+      "node": 40463
+    },
+    {
+      "edge": "AES1_M1_118",
+      "node": 40495
+    },
+    {
+      "edge": "AES1_M1_115",
+      "node": 40465
+    },
+    {
+      "edge": "AES1_M1_115",
+      "node": 39115
+    },
+    {
+      "edge": "AES1_M1_115",
+      "node": 36399
+    },
+    {
+      "edge": "AES1_M1_120",
+      "node": 40472
+    },
+    {
+      "edge": "AES1_M1_120",
+      "node": 39017
+    },
+    {
+      "edge": "AES1_M1_120",
+      "node": 38021
+    },
+    {
+      "edge": "AES1_M1_110",
+      "node": 39050
+    },
+    {
+      "edge": "AES1_M1_110",
+      "node": 40468
+    },
+    {
+      "edge": "AES1_M1_110",
+      "node": 39142
+    },
+    {
+      "edge": "AES1_M1_13",
+      "node": 40528
+    },
+    {
+      "edge": "AES1_M1_13",
+      "node": 39179
+    },
+    {
+      "edge": "AES1_M1_13",
+      "node": 40462
+    },
+    {
+      "edge": "AES1_M1_19",
+      "node": 34441
+    },
+    {
+      "edge": "AES1_M1_19",
+      "node": 40461
+    },
+    {
+      "edge": "AES1_M1_19",
+      "node": 39565
+    },
+    {
+      "edge": "AES1_M1_11",
+      "node": 40466
+    },
+    {
+      "edge": "AES1_M1_11",
+      "node": 38684
+    },
+    {
+      "edge": "AES1_M1_11",
+      "node": 39026
+    },
+    {
+      "edge": "AES1_M1_113",
+      "node": 40480
+    },
+    {
+      "edge": "AES1_M1_113",
+      "node": 40486
+    },
+    {
+      "edge": "AES1_M1_113",
+      "node": 40471
+    },
+    {
+      "edge": "AES1_M1_14",
+      "node": 38786
+    },
+    {
+      "edge": "AES1_M1_14",
+      "node": 38667
+    },
+    {
+      "edge": "AES1_M1_14",
+      "node": 40460
+    },
+    {
+      "edge": "AES1_M1_15",
+      "node": 40482
+    },
+    {
+      "edge": "AES1_M1_15",
+      "node": 38717
+    },
+    {
+      "edge": "AES1_M1_15",
+      "node": 40494
+    },
+    {
+      "edge": "AES1_M1_111",
+      "node": 39109
+    },
+    {
+      "edge": "AES1_M1_111",
+      "node": 40493
+    },
+    {
+      "edge": "AES1_M1_111",
+      "node": 40469
+    },
+    {
+      "edge": "AES1_M1_18",
+      "node": 40474
+    },
+    {
+      "edge": "AES1_M1_18",
+      "node": 40467
+    },
+    {
+      "edge": "AES1_M1_18",
+      "node": 39143
+    },
+    {
+      "edge": "AES1_M1_112",
+      "node": 39705
+    },
+    {
+      "edge": "AES1_M1_112",
+      "node": 40459
+    },
+    {
+      "edge": "AES1_M1_112",
+      "node": 41373
+    },
+    {
+      "edge": "AES1_M2_218",
+      "node": 40496
+    },
+    {
+      "edge": "AES1_M2_218",
+      "node": 39705
+    },
+    {
+      "edge": "AES1_M2_218",
+      "node": 38717
+    },
+    {
+      "edge": "AES1_M2_21",
+      "node": 40475
+    },
+    {
+      "edge": "AES1_M2_21",
+      "node": 39109
+    },
+    {
+      "edge": "AES1_M2_21",
+      "node": 40495
+    },
+    {
+      "edge": "AES1_M2_27",
+      "node": 40459
+    },
+    {
+      "edge": "AES1_M2_27",
+      "node": 39876
+    },
+    {
+      "edge": "AES1_M2_27",
+      "node": 36399
+    },
+    {
+      "edge": "AES1_M2_213",
+      "node": 40464
+    },
+    {
+      "edge": "AES1_M2_213",
+      "node": 40490
+    },
+    {
+      "edge": "AES1_M2_213",
+      "node": 39142
+    },
+    {
+      "edge": "AES1_M2_215",
+      "node": 40489
+    },
+    {
+      "edge": "AES1_M2_215",
+      "node": 40469
+    },
+    {
+      "edge": "AES1_M2_215",
+      "node": 40470
+    },
+    {
+      "edge": "AES1_M2_217",
+      "node": 40801
+    },
+    {
+      "edge": "AES1_M2_217",
+      "node": 40483
+    },
+    {
+      "edge": "AES1_M2_217",
+      "node": 40493
+    },
+    {
+      "edge": "AES1_M2_28",
+      "node": 40466
+    },
+    {
+      "edge": "AES1_M2_28",
+      "node": 39589
+    },
+    {
+      "edge": "AES1_M2_28",
+      "node": 38786
+    },
+    {
+      "edge": "AES1_M2_23",
+      "node": 40528
+    },
+    {
+      "edge": "AES1_M2_23",
+      "node": 37645
+    },
+    {
+      "edge": "AES1_M2_23",
+      "node": 41373
+    },
+    {
+      "edge": "AES1_M2_22",
+      "node": 40474
+    },
+    {
+      "edge": "AES1_M2_22",
+      "node": 38331
+    },
+    {
+      "edge": "AES1_M2_22",
+      "node": 40482
+    },
+    {
+      "edge": "AES1_M2_211",
+      "node": 34441
+    },
+    {
+      "edge": "AES1_M2_211",
+      "node": 39034
+    },
+    {
+      "edge": "AES1_M2_211",
+      "node": 40494
+    },
+    {
+      "edge": "AES1_M2_220",
+      "node": 40472
+    },
+    {
+      "edge": "AES1_M2_220",
+      "node": 39026
+    },
+    {
+      "edge": "AES1_M2_220",
+      "node": 39143
+    },
+    {
+      "edge": "AES1_M2_214",
+      "node": 39050
+    },
+    {
+      "edge": "AES1_M2_214",
+      "node": 39115
+    },
+    {
+      "edge": "AES1_M2_214",
+      "node": 40462
+    },
+    {
+      "edge": "AES1_M2_24",
+      "node": 39179
+    },
+    {
+      "edge": "AES1_M2_24",
+      "node": 40477
+    },
+    {
+      "edge": "AES1_M2_24",
+      "node": 40486
+    },
+    {
+      "edge": "AES1_M2_212",
+      "node": 39017
+    },
+    {
+      "edge": "AES1_M2_212",
+      "node": 38684
+    },
+    {
+      "edge": "AES1_M2_212",
+      "node": 40461
+    },
+    {
+      "edge": "AES1_M2_210",
+      "node": 40457
+    },
+    {
+      "edge": "AES1_M2_210",
+      "node": 38667
+    },
+    {
+      "edge": "AES1_M2_210",
+      "node": 38021
+    },
+    {
+      "edge": "AES1_M2_25",
+      "node": 40485
+    },
+    {
+      "edge": "AES1_M2_25",
+      "node": 39565
+    },
+    {
+      "edge": "AES1_M2_25",
+      "node": 40471
+    },
+    {
+      "edge": "AES1_M2_29",
+      "node": 40465
+    },
+    {
+      "edge": "AES1_M2_29",
+      "node": 40467
+    },
+    {
+      "edge": "AES1_M2_29",
+      "node": 40463
+    },
+    {
+      "edge": "AES1_M2_219",
+      "node": 38633
+    },
+    {
+      "edge": "AES1_M2_219",
+      "node": 40460
+    },
+    {
+      "edge": "AES1_M2_219",
+      "node": 39713
+    },
+    {
+      "edge": "AES1_M2_216",
+      "node": 40480
+    },
+    {
+      "edge": "AES1_M2_216",
+      "node": 40481
+    },
+    {
+      "edge": "AES1_M2_216",
+      "node": 40468
+    },
+    {
+      "edge": "AES1_M2_26",
+      "node": 40473
+    },
+    {
+      "edge": "AES1_M2_26",
+      "node": 40316
+    },
+    {
+      "edge": "AES1_M2_26",
+      "node": 37575
+    },
+    {
+      "edge": "AES1_M3_317",
+      "node": 40496
+    },
+    {
+      "edge": "AES1_M3_317",
+      "node": 40460
+    },
+    {
+      "edge": "AES1_M3_317",
+      "node": 40486
+    },
+    {
+      "edge": "AES1_M3_320",
+      "node": 39017
+    },
+    {
+      "edge": "AES1_M3_320",
+      "node": 40475
+    },
+    {
+      "edge": "AES1_M3_320",
+      "node": 41373
+    },
+    {
+      "edge": "AES1_M3_318",
+      "node": 38633
+    },
+    {
+      "edge": "AES1_M3_318",
+      "node": 39876
+    },
+    {
+      "edge": "AES1_M3_318",
+      "node": 40495
+    },
+    {
+      "edge": "AES1_M3_37",
+      "node": 40464
+    },
+    {
+      "edge": "AES1_M3_37",
+      "node": 40483
+    },
+    {
+      "edge": "AES1_M3_37",
+      "node": 40462
+    },
+    {
+      "edge": "AES1_M3_31",
+      "node": 40489
+    },
+    {
+      "edge": "AES1_M3_31",
+      "node": 39034
+    },
+    {
+      "edge": "AES1_M3_31",
+      "node": 38684
+    },
+    {
+      "edge": "AES1_M3_310",
+      "node": 40528
+    },
+    {
+      "edge": "AES1_M3_310",
+      "node": 38667
+    },
+    {
+      "edge": "AES1_M3_310",
+      "node": 39589
+    },
+    {
+      "edge": "AES1_M3_39",
+      "node": 38786
+    },
+    {
+      "edge": "AES1_M3_39",
+      "node": 40493
+    },
+    {
+      "edge": "AES1_M3_39",
+      "node": 37645
+    },
+    {
+      "edge": "AES1_M3_313",
+      "node": 39050
+    },
+    {
+      "edge": "AES1_M3_313",
+      "node": 38331
+    },
+    {
+      "edge": "AES1_M3_313",
+      "node": 40461
+    },
+    {
+      "edge": "AES1_M3_32",
+      "node": 40472
+    },
+    {
+      "edge": "AES1_M3_32",
+      "node": 40490
+    },
+    {
+      "edge": "AES1_M3_32",
+      "node": 39115
+    },
+    {
+      "edge": "AES1_M3_36",
+      "node": 39565
+    },
+    {
+      "edge": "AES1_M3_36",
+      "node": 40494
+    },
+    {
+      "edge": "AES1_M3_36",
+      "node": 36399
+    },
+    {
+      "edge": "AES1_M3_314",
+      "node": 40457
+    },
+    {
+      "edge": "AES1_M3_314",
+      "node": 39179
+    },
+    {
+      "edge": "AES1_M3_314",
+      "node": 40471
+    },
+    {
+      "edge": "AES1_M3_319",
+      "node": 39713
+    },
+    {
+      "edge": "AES1_M3_319",
+      "node": 40466
+    },
+    {
+      "edge": "AES1_M3_319",
+      "node": 39109
+    },
+    {
+      "edge": "AES1_M3_34",
+      "node": 40465
+    },
+    {
+      "edge": "AES1_M3_34",
+      "node": 34441
+    },
+    {
+      "edge": "AES1_M3_34",
+      "node": 39026
+    },
+    {
+      "edge": "AES1_M3_38",
+      "node": 40474
+    },
+    {
+      "edge": "AES1_M3_38",
+      "node": 40485
+    },
+    {
+      "edge": "AES1_M3_38",
+      "node": 39142
+    },
+    {
+      "edge": "AES1_M3_315",
+      "node": 40801
+    },
+    {
+      "edge": "AES1_M3_315",
+      "node": 38717
+    },
+    {
+      "edge": "AES1_M3_315",
+      "node": 39143
+    },
+    {
+      "edge": "AES1_M3_33",
+      "node": 40480
+    },
+    {
+      "edge": "AES1_M3_33",
+      "node": 40469
+    },
+    {
+      "edge": "AES1_M3_33",
+      "node": 40463
+    },
+    {
+      "edge": "AES1_M3_312",
+      "node": 40473
+    },
+    {
+      "edge": "AES1_M3_312",
+      "node": 40468
+    },
+    {
+      "edge": "AES1_M3_312",
+      "node": 40470
+    },
+    {
+      "edge": "AES1_M3_35",
+      "node": 39705
+    },
+    {
+      "edge": "AES1_M3_35",
+      "node": 40316
+    },
+    {
+      "edge": "AES1_M3_35",
+      "node": 40477
+    },
+    {
+      "edge": "AES1_M3_316",
+      "node": 40481
+    },
+    {
+      "edge": "AES1_M3_316",
+      "node": 40482
+    },
+    {
+      "edge": "AES1_M3_316",
+      "node": 40467
+    },
+    {
+      "edge": "AES1_M3_311",
+      "node": 40459
+    },
+    {
+      "edge": "AES1_M3_311",
+      "node": 38021
+    },
+    {
+      "edge": "AES1_M3_311",
+      "node": 37575
+    },
+    {
+      "edge": "AES1_M4_45",
+      "node": 40496
+    },
+    {
+      "edge": "AES1_M4_45",
+      "node": 41373
+    },
+    {
+      "edge": "AES1_M4_45",
+      "node": 36399
+    },
+    {
+      "edge": "AES1_M4_49",
+      "node": 39179
+    },
+    {
+      "edge": "AES1_M4_49",
+      "node": 40475
+    },
+    {
+      "edge": "AES1_M4_49",
+      "node": 40493
+    },
+    {
+      "edge": "AES1_M4_418",
+      "node": 40468
+    },
+    {
+      "edge": "AES1_M4_418",
+      "node": 39876
+    },
+    {
+      "edge": "AES1_M4_418",
+      "node": 38684
+    },
+    {
+      "edge": "AES1_M4_44",
+      "node": 40464
+    },
+    {
+      "edge": "AES1_M4_44",
+      "node": 39705
+    },
+    {
+      "edge": "AES1_M4_44",
+      "node": 39115
+    },
+    {
+      "edge": "AES1_M4_412",
+      "node": 40316
+    },
+    {
+      "edge": "AES1_M4_412",
+      "node": 40489
+    },
+    {
+      "edge": "AES1_M4_412",
+      "node": 40460
+    },
+    {
+      "edge": "AES1_M4_419",
+      "node": 40483
+    },
+    {
+      "edge": "AES1_M4_419",
+      "node": 40461
+    },
+    {
+      "edge": "AES1_M4_419",
+      "node": 38021
+    },
+    {
+      "edge": "AES1_M4_411",
+      "node": 40469
+    },
+    {
+      "edge": "AES1_M4_411",
+      "node": 38717
+    },
+    {
+      "edge": "AES1_M4_411",
+      "node": 39589
+    },
+    {
+      "edge": "AES1_M4_417",
+      "node": 40482
+    },
+    {
+      "edge": "AES1_M4_417",
+      "node": 37645
+    },
+    {
+      "edge": "AES1_M4_417",
+      "node": 40471
+    },
+    {
+      "edge": "AES1_M4_41",
+      "node": 38633
+    },
+    {
+      "edge": "AES1_M4_41",
+      "node": 38331
+    },
+    {
+      "edge": "AES1_M4_41",
+      "node": 39143
+    },
+    {
+      "edge": "AES1_M4_420",
+      "node": 40528
+    },
+    {
+      "edge": "AES1_M4_420",
+      "node": 40490
+    },
+    {
+      "edge": "AES1_M4_420",
+      "node": 40480
+    },
+    {
+      "edge": "AES1_M4_416",
+      "node": 40473
+    },
+    {
+      "edge": "AES1_M4_416",
+      "node": 39034
+    },
+    {
+      "edge": "AES1_M4_416",
+      "node": 40462
+    },
+    {
+      "edge": "AES1_M4_413",
+      "node": 40472
+    },
+    {
+      "edge": "AES1_M4_413",
+      "node": 39713
+    },
+    {
+      "edge": "AES1_M4_413",
+      "node": 37575
+    },
+    {
+      "edge": "AES1_M4_410",
+      "node": 39050
+    },
+    {
+      "edge": "AES1_M4_410",
+      "node": 38667
+    },
+    {
+      "edge": "AES1_M4_410",
+      "node": 40477
+    },
+    {
+      "edge": "AES1_M4_47",
+      "node": 40457
+    },
+    {
+      "edge": "AES1_M4_47",
+      "node": 34441
+    },
+    {
+      "edge": "AES1_M4_47",
+      "node": 40486
+    },
+    {
+      "edge": "AES1_M4_42",
+      "node": 39017
+    },
+    {
+      "edge": "AES1_M4_42",
+      "node": 40466
+    },
+    {
+      "edge": "AES1_M4_42",
+      "node": 39565
+    },
+    {
+      "edge": "AES1_M4_414",
+      "node": 40465
+    },
+    {
+      "edge": "AES1_M4_414",
+      "node": 40481
+    },
+    {
+      "edge": "AES1_M4_414",
+      "node": 40495
+    },
+    {
+      "edge": "AES1_M4_46",
+      "node": 40494
+    },
+    {
+      "edge": "AES1_M4_46",
+      "node": 39142
+    },
+    {
+      "edge": "AES1_M4_46",
+      "node": 40470
+    },
+    {
+      "edge": "AES1_M4_415",
+      "node": 40801
+    },
+    {
+      "edge": "AES1_M4_415",
+      "node": 38786
+    },
+    {
+      "edge": "AES1_M4_415",
+      "node": 39026
+    },
+    {
+      "edge": "AES1_M4_43",
+      "node": 40474
+    },
+    {
+      "edge": "AES1_M4_43",
+      "node": 40459
+    },
+    {
+      "edge": "AES1_M4_43",
+      "node": 40463
+    },
+    {
+      "edge": "AES1_M4_48",
+      "node": 39109
+    },
+    {
+      "edge": "AES1_M4_48",
+      "node": 40467
+    },
+    {
+      "edge": "AES1_M4_48",
+      "node": 40485
+    }
+  ]
+}

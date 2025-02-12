@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "conference-name": "CMC",
+    "year": 2018
+  },
+  "network-type": "undirected",
+  "edges": [
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 16
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 17
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 18
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 19
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 20
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 21
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 22
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 23
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 24
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 25
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 26
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 27
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 28
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 29
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 30
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 31
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 32
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 33
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 34
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 35
+    },
+    {
+      "attrs": {
+        "status": "award"
+      },
+      "edge": 36
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 37
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 38
+    },
+    {
+      "attrs": {
+        "status": "denied"
+      },
+      "edge": 39
+    }
+  ],
+  "incidences": [
+    {
+      "edge": 23,
+      "node": 40697
+    },
+    {
+      "edge": 23,
+      "node": 40979
+    },
+    {
+      "edge": 23,
+      "node": 40974
+    },
+    {
+      "edge": 28,
+      "node": 36421
+    },
+    {
+      "edge": 28,
+      "node": 39661
+    },
+    {
+      "edge": 28,
+      "node": 40734
+    },
+    {
+      "edge": 25,
+      "node": 40993
+    },
+    {
+      "edge": 25,
+      "node": 40988
+    },
+    {
+      "edge": 16,
+      "node": 40994
+    },
+    {
+      "edge": 16,
+      "node": 36421
+    },
+    {
+      "edge": 16,
+      "node": 40989
+    },
+    {
+      "edge": 17,
+      "node": 41008
+    },
+    {
+      "edge": 17,
+      "node": 41009
+    },
+    {
+      "edge": 17,
+      "node": 40989
+    },
+    {
+      "edge": 19,
+      "node": 41006
+    },
+    {
+      "edge": 19,
+      "node": 40986
+    },
+    {
+      "edge": 19,
+      "node": 40990
+    },
+    {
+      "edge": 38,
+      "node": 40995
+    },
+    {
+      "edge": 38,
+      "node": 40981
+    },
+    {
+      "edge": 38,
+      "node": 40991
+    },
+    {
+      "edge": 18,
+      "node": 40992
+    },
+    {
+      "edge": 18,
+      "node": 40985
+    },
+    {
+      "edge": 18,
+      "node": 40876
+    },
+    {
+      "edge": 21,
+      "node": 40992
+    },
+    {
+      "edge": 21,
+      "node": 39593
+    },
+    {
+      "edge": 21,
+      "node": 38110
+    },
+    {
+      "edge": 33,
+      "node": 39146
+    },
+    {
+      "edge": 33,
+      "node": 40994
+    },
+    {
+      "edge": 33,
+      "node": 40995
+    },
+    {
+      "edge": 26,
+      "node": 37264
+    },
+    {
+      "edge": 26,
+      "node": 40996
+    },
+    {
+      "edge": 26,
+      "node": 41005
+    },
+    {
+      "edge": 36,
+      "node": 41003
+    },
+    {
+      "edge": 36,
+      "node": 40997
+    },
+    {
+      "edge": 32,
+      "node": 39708
+    },
+    {
+      "edge": 32,
+      "node": 41013
+    },
+    {
+      "edge": 32,
+      "node": 40998
+    },
+    {
+      "edge": 34,
+      "node": 39138
+    },
+    {
+      "edge": 34,
+      "node": 40998
+    },
+    {
+      "edge": 34,
+      "node": 38295
+    },
+    {
+      "edge": 39,
+      "node": 39146
+    },
+    {
+      "edge": 39,
+      "node": 40876
+    },
+    {
+      "edge": 39,
+      "node": 40983
+    },
+    {
+      "edge": 27,
+      "node": 41008
+    },
+    {
+      "edge": 27,
+      "node": 41001
+    },
+    {
+      "edge": 27,
+      "node": 38110
+    },
+    {
+      "edge": 22,
+      "node": 41003
+    },
+    {
+      "edge": 22,
+      "node": 41007
+    },
+    {
+      "edge": 29,
+      "node": 41014
+    },
+    {
+      "edge": 29,
+      "node": 41007
+    },
+    {
+      "edge": 30,
+      "node": 37064
+    },
+    {
+      "edge": 30,
+      "node": 41010
+    },
+    {
+      "edge": 30,
+      "node": 40986
+    },
+    {
+      "edge": 35,
+      "node": 40697
+    },
+    {
+      "edge": 35,
+      "node": 41014
+    },
+    {
+      "edge": 35,
+      "node": 38295
+    },
+    {
+      "edge": 31,
+      "node": 41001
+    },
+    {
+      "edge": 31,
+      "node": 40734
+    },
+    {
+      "edge": 20,
+      "node": 41002
+    },
+    {
+      "edge": 20,
+      "node": 40980
+    },
+    {
+      "edge": 24,
+      "node": 38345
+    },
+    {
+      "edge": 24,
+      "node": 40977
+    },
+    {
+      "edge": 37,
+      "node": 40996
+    },
+    {
+      "edge": 37,
+      "node": 40975
+    }
+  ]
+}
